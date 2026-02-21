@@ -3,6 +3,9 @@
 
 A Model Context Protocol (MCP) server that connects to the official Hevy API and exposes workout data to AI assistants. Supports dual transport modes: stdio for Claude Desktop and SSE for remote access (e.g., Poke.com).
 
+Built by [@meimakes](https://x.com/meimakes)
+
+
 ## Deploy to Railway
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/dhh51B?referralCode=7zdyjn&utm_medium=integration&utm_source=template&utm_campaign=generic)
