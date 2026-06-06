@@ -3,7 +3,7 @@
 
 A Model Context Protocol (MCP) server that connects to the official Hevy API and exposes workout data to AI assistants. Supports dual transport modes: stdio for Claude Desktop and SSE for remote access (e.g., Poke.com).
 
-Built by [@meimakes](https://x.com/meimakes)
+Built by [@madebydia](https://x.com/madebydia)
 
 
 ## Deploy to Railway
@@ -55,7 +55,7 @@ Click the button above to deploy your own instance to Railway. See the [Railway 
 ### 1. Clone and Install Dependencies
 
 ```bash
-git clone https://github.com/meimakes/hevy-mcp-server
+git clone https://github.com/madebydia/hevy-mcp-server
 cd hevy-mcp-server
 npm install
 ```
