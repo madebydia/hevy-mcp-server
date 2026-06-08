@@ -8,9 +8,7 @@ Built by [@madebydia](https://x.com/madebydia)
 
 ## Deploy to Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/il6CM2?referralCode=a6V1Do&utm_medium=integration&utm_source=template&utm_campaign=generic)
-
-Click the button above to deploy your own instance to Railway. See the [Railway Deployment](#railway-deployment) section below for configuration details.
+See the [Railway Deployment](#railway-deployment) section below for configuration details.
 
 ## Features
 
