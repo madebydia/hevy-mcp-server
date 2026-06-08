@@ -8,6 +8,8 @@ Built by [@madebydia](https://x.com/madebydia)
 
 ## Deploy to Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/hevy-mcp-server?referralCode=a6V1Do&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 See the [Railway Deployment](#railway-deployment) section below for configuration details.
 
 ## Features
